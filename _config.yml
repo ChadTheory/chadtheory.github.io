@@ -5,7 +5,7 @@ name: "Chad Theory"
 tagline: "Independent Australian Conservative Podcast"
 
 # YOUR/BRAND IMAGE URL
-Image_URL: /assets/images/brand_image.jpg
+Image_URL:  /assets/images/brand_image.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image:  /assets/images/channels4_banner.jpg
