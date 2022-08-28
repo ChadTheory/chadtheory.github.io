@@ -58,14 +58,7 @@ links:
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
     Text_Color: '#ffffff'
-  # PAYPAL 
-  - 
-    Name: Paypal Donation
-    URL: https://www.paypal.com/donate/?hosted_button_id=VCXXRH8RWLRNQ
-    Icon-Class: fab fa-paypal
-    Color: '#003087'
-    Text_Color: '#ffffff'
-
+ 
   # PAYPAL 
   - 
     Name: Paypal Donation
@@ -76,17 +69,17 @@ links:
 
 # APPLE PODCAST
   - 
-    Name: Apple Podcasts
+    Name: Apple Podcast
     URL: https://podcasts.apple.com/us/podcast/chad-theory/id1596607739
     Icon-Class: fa-solid fa-podcast
-    Color: '#003087'
+    Color: '#9147fe'
     Text_Color: '#ffffff'
-# Google Podcast
+# Anchor
   -
-    Name: Google Podcast
-    URL: https://podcasts.apple.com/us/podcast/chad-theory/id1596607739
-    Icon-Class: fa-brands fa-google
-    Color: '#003087'
+    Name: Anchor.fm
+    URL: https://anchor.fm/chad-theory
+    Icon-Class: fa-solid fa-anchor
+    Color: '#1ab7ea'
     Text_Color: '#ffffff'
 
 
