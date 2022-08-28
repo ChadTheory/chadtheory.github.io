@@ -3,14 +3,13 @@ name: "Chad Theory"
 
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: "Independent Australian Conservative Podcast"
-
 # YOUR/BRAND IMAGE URL
-Image_URL:  https://nikoau555.github.io/assets/images/brand_image.jpg
+Image_URL:  https://chadtheory.github.io/assets/images/brand_image.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image:  /assets/images/channels4_banner.jpg
 
-# SOCIAL MEDIA
+# SOCIAL MEDIA 
 links:
   # YOUTUBE
   - 
@@ -19,6 +18,20 @@ links:
     Username: UC4Qds0oLcK7StlakgvGVJug
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
+  # Anchor
+  -
+    Name: Podcast
+    URL: https://anchor.fm/chad-theory
+    Icon-Class: fa fa-podcast
+    Color: '#1ab7ea'
+    Text_Color: '#ffffff'
+  # PAYPAL 
+  - 
+    Name: Paypal Donation
+    URL: https://www.paypal.com/donate/?hosted_button_id=VCXXRH8RWLRNQ
+    Icon-Class: fab fa-paypal
+    Color: '#003087'
+    Text_Color: '#ffffff'
   # FACEBOOK 
   - 
     Name: Facebook
@@ -26,13 +39,6 @@ links:
     Username: chadtheoryshow
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
-  # TWITTER
-  - 
-    Name: Twitter
-    URL: https://twitter.com
-    Username: chadtheoryshow
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
   # INSTAGRAM
   - 
     Name: Instagram
@@ -42,6 +48,14 @@ links:
     Icon-Class: fab fa-instagram    
     Text_Color: '#ffffff'
 
+  # TWITTER
+  - 
+    Name: Twitter
+    URL: https://twitter.com
+    Username: chadtheoryshow
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+  
   # DISCORD
   - 
     Name: Discord
@@ -50,21 +64,8 @@ links:
     Icon-Class: fab fa-discord
     Color: '#5865F2'
     Text_Color: '#ffffff'
-  # SPOTIFY
-  - 
-    Name: Spotify
-    URL: http://open.spotify.com/show
-    Username: 32hitI21UQVhTdedl8S2Zv
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
-    Text_Color: '#ffffff'
-    # CUSTOM LINK
-  - 
-    Name: Paypal Donation
-    URL: https://www.paypal.com/donate/?hosted_button_id=VCXXRH8RWLRNQ
-    Icon-Class: fas fa-link
-    Color: '#003087'
-    Text_Color: '#ffffff'
+     
+
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: #'Yes'
 
