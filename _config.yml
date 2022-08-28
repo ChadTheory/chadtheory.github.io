@@ -35,7 +35,7 @@ links:
     Icon-Class: fab fa-twitter
   # INSTAGRAM
   - 
-    Name: chadtheoryshow
+    Name: Instagram
     URL: https://www.instagram.com
     Username: chadtheoryshow
     Color: '#DD2A7B'
@@ -49,14 +49,7 @@ links:
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
-  # MESSENGER
-  - 
-    Name: Messenger
-    URL: https://m.me
-    Username: chadtheoryshow
-    Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
-    Text_Color: '#ffffff'
+
   # DISCORD
   - 
     Name: Discord
