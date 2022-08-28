@@ -5,14 +5,21 @@ name: "Chad Theory"
 tagline: "Independent Australian Conservative Podcast"
 
 # YOUR/BRAND IMAGE URL
-Image_URL:  /assets/images/brand_image.jpg
+Image_URL:  https://images.weserv.nl/?url=https://nikoau555.github.io/assets/images/brand_image.jpg?s=500&h=300&w=300&fit=cover&mask=circle&maxage=7d
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image:  /assets/images/channels4_banner.jpg
 
 # SOCIAL MEDIA
 links:
- # FACEBOOK 
+  # YOUTUBE
+  - 
+    Name: YouTube
+    URL: https://www.youtube.com/channel
+    Username: UC4Qds0oLcK7StlakgvGVJug
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+  # FACEBOOK 
   - 
     Name: Facebook
     URL: https://www.facebook.com
@@ -26,7 +33,7 @@ links:
     Username: chadtheoryshow
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
-    # INSTAGRAM
+  # INSTAGRAM
   - 
     Name: chadtheoryshow
     URL: https://www.instagram.com
@@ -34,14 +41,7 @@ links:
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram    
     Text_Color: '#ffffff'
-    # YOUTUBE
-  - 
-    Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UC4Qds0oLcK7StlakgvGVJug
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-    # TWITCH
+  # TWITCH
   - 
     Name: Twitch
     URL: 'https://twitch.tv'
@@ -49,7 +49,7 @@ links:
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
-   # MESSENGER
+  # MESSENGER
   - 
     Name: Messenger
     URL: https://m.me
@@ -57,7 +57,7 @@ links:
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
     Text_Color: '#ffffff'
- # DISCORD
+  # DISCORD
   - 
     Name: Discord
     URL: 'https://discord.gg'
@@ -65,7 +65,7 @@ links:
     Icon-Class: fab fa-discord
     Color: '#5865F2'
     Text_Color: '#ffffff'
-    # SPOTIFY
+  # SPOTIFY
   - 
     Name: Spotify
     URL: http://open.spotify.com/show
