@@ -47,14 +47,7 @@ links:
     Username: UC4Qds0oLcK7StlakgvGVJug
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
-
-  # EMAIL
-  - Name: Email
-  #URL: 'mailto:harshtrivedi@duck.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
+    
 # TWITCH
   - Name: Twitch
     URL: 'https://twitch.tv'
