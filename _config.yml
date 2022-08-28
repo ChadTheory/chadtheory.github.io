@@ -1,8 +1,8 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Chad Theory
+name: "Chad Theory"
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Independent Australian Conservative Podcast
+tagline: "Independent Australian Conservative Podcast"
 
 # YOUR/BRAND IMAGE URL
 Image_URL: /assets/images/brand_image.jpg
@@ -12,79 +12,78 @@ Cover_Image:  /assets/images/channels4_banner.jpg
 
 # SOCIAL MEDIA
 links:
-
-  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK    
-  # FACEBOOK
-  - Name: Facebook
+ # FACEBOOK 
+  - 
+    Name: Facebook
     URL: https://www.facebook.com
     Username: chadtheoryshow
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
-
-    # TWITTER
-  - Name: Twitter
+  # TWITTER
+  - 
+    Name: Twitter
     URL: https://twitter.com
     Username: chadtheoryshow
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
-
     # INSTAGRAM
-  - Name: chadtheoryshow
+  - 
+    Name: chadtheoryshow
     URL: https://www.instagram.com
     Username: harsh98trivedi
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram    
     Text_Color: '#ffffff'
-
     # YOUTUBE
-  - Name: YouTube
+  - 
+    Name: YouTube
     URL: https://www.youtube.com/channel
     Username: UC4Qds0oLcK7StlakgvGVJug
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
-    
     # TWITCH
-  - Name: Twitch
+  - 
+    Name: Twitch
     URL: 'https://twitch.tv'
     Username: chadtheoryshow
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
-
    # MESSENGER
-  - Name: Messenger
+  - 
+    Name: Messenger
     URL: https://m.me
     Username: chadtheoryshow
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
     Text_Color: '#ffffff'
-
  # DISCORD
-   - Name: Discord
-     URL: 'https://discord.gg'
-     Username: yNeEsW3CQf
-     Icon-Class: fab fa-discord
-     Color: '#5865F2'
-     Text_Color: '#ffffff'
-
+  - 
+    Name: Discord
+    URL: 'https://discord.gg'
+    Username: yNeEsW3CQf
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
     # SNAPCHAT
-  - Name: Snapchat
+  - 
+    Name: Snapchat
     URL: https://www.snapchat.com/add
     Username: 'harsh98trivedi'
     Color: '#FFFC00'
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
-
     # SPOTIFY
-    - Name: Spotify
+  - 
+    Name: Spotify
     URL: http://open.spotify.com/show
     Username: 32hitI21UQVhTdedl8S2Zv
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
     Text_Color: '#ffffff'
-
     # CUSTOM LINK
-  - Name: Paypal Donate
+  - 
+    Name: Paypal Donate
     URL: https://www.paypal.com/donate/?hosted_button_id=VCXXRH8RWLRNQ
     Icon-Class: fas fa-link
     Color: '#ffb142'
