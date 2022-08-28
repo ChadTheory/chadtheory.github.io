@@ -5,7 +5,7 @@ name: "Chad Theory"
 tagline: "Independent Australian Conservative Podcast"
 
 # YOUR/BRAND IMAGE URL
-Image_URL:  https://images.weserv.nl/?url=https://nikoau555.github.io/assets/images/brand_image.jpg?s=500&h=300&w=300&fit=cover&mask=circle&maxage=7d
+Image_URL:  https://nikoau555.github.io/assets/images/brand_image.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image:  /assets/images/channels4_banner.jpg
