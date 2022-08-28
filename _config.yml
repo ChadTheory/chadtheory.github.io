@@ -30,7 +30,7 @@ links:
   - 
     Name: chadtheoryshow
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: chadtheoryshow
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram    
     Text_Color: '#ffffff'
@@ -65,14 +65,6 @@ links:
     Icon-Class: fab fa-discord
     Color: '#5865F2'
     Text_Color: '#ffffff'
-    # SNAPCHAT
-  - 
-    Name: Snapchat
-    URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
-    Color: '#FFFC00'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
     # SPOTIFY
   - 
     Name: Spotify
@@ -83,7 +75,7 @@ links:
     Text_Color: '#ffffff'
     # CUSTOM LINK
   - 
-    Name: Paypal Donate
+    Name: Paypal Donation
     URL: https://www.paypal.com/donate/?hosted_button_id=VCXXRH8RWLRNQ
     Icon-Class: fas fa-link
     Color: '#ffb142'
