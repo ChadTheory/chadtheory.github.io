@@ -58,13 +58,40 @@ links:
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
     Text_Color: '#ffffff'
-    # CUSTOM LINK
+  # PAYPAL 
   - 
     Name: Paypal Donation
     URL: https://www.paypal.com/donate/?hosted_button_id=VCXXRH8RWLRNQ
-    Icon-Class: fas fa-link
+    Icon-Class: fab fa-paypal
     Color: '#003087'
     Text_Color: '#ffffff'
+
+  # PAYPAL 
+  - 
+    Name: Paypal Donation
+    URL: https://www.paypal.com/donate/?hosted_button_id=VCXXRH8RWLRNQ
+    Icon-Class: fab fa-paypal
+    Color: '#003087'
+    Text_Color: '#ffffff'
+
+# APPLE PODCAST
+  - 
+    Name: Apple Podcasts
+    URL: https://podcasts.apple.com/us/podcast/chad-theory/id1596607739
+    Icon-Class: fa-solid fa-podcast
+    Color: '#003087'
+    Text_Color: '#ffffff'
+
+    Name: Google Podcast
+    URL: https://podcasts.apple.com/us/podcast/chad-theory/id1596607739
+    Icon-Class: fa-brands fa-google
+    Color: '#003087'
+    Text_Color: '#ffffff'
+
+
+    
+
+
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: #'Yes'
 
