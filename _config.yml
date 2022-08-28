@@ -78,7 +78,7 @@ links:
     Name: Paypal Donation
     URL: https://www.paypal.com/donate/?hosted_button_id=VCXXRH8RWLRNQ
     Icon-Class: fas fa-link
-    Color: '#ffb142'
+    Color: '#003087'
     Text_Color: '#ffffff'
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: #'Yes'
