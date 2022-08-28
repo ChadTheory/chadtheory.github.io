@@ -81,7 +81,8 @@ links:
     Icon-Class: fa-solid fa-podcast
     Color: '#003087'
     Text_Color: '#ffffff'
-
+# Google Podcast
+  -
     Name: Google Podcast
     URL: https://podcasts.apple.com/us/podcast/chad-theory/id1596607739
     Icon-Class: fa-brands fa-google
