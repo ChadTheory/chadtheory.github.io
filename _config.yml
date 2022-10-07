@@ -2,7 +2,7 @@
 name: "Chad Theory"
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: "Independent Australian Conservative Podcast"
+tagline: "Independent Australian Podcast"
 # YOUR/BRAND IMAGE URL
 Image_URL:  https://chadtheory.github.io/assets/images/brand_image.jpg
 
@@ -57,13 +57,13 @@ links:
     Icon-Class: fab fa-twitter
   
   # DISCORD
-  - 
-    Name: Discord
-    URL: 'https://discord.gg'
-    Username: aF55TQNcSC
-    Icon-Class: fab fa-discord
-    Color: '#5865F2'
-    Text_Color: '#ffffff'
+# - 
+#   Name: Discord
+#   URL: 'https://discord.gg'
+#   Username: aF55TQNcSC
+#   Icon-Class: fab fa-discord
+#   Color: '#5865F2'
+#   Text_Color: '#ffffff'
      
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
