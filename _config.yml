@@ -4,10 +4,13 @@ name: "Chad Theory"
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: "The Independent Australian Podcast"
 # YOUR/BRAND IMAGE URL
-Image_URL:  https://chadtheory.github.io/assets/images/brand_image.jpg
+#Image_URL:  https://chadtheory.github.io/assets/images/brand_image.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image:  /assets/images/channels4_banner.jpg
+Cover_Image:  /assets/images/brand_banner.webp
+chad_image:  /assets/images/chad-image.png
+shortcut_icon:  /favicon.ico
+shortcut_png:  /favicon.png
 
 # SOCIAL MEDIA 
 links:
@@ -25,6 +28,22 @@ links:
     Icon-Class: fa fa-podcast
     Color: '#1DB954'
     Text_Color: '#ffffff'
+  # Rumble
+  -
+    Name: Rumble
+    URL: https://rumble.com/user/ChadTheory
+    Icon-Class: fa fa-play-circle
+    Color: '#85C742'
+    Text_Color: '#ffffff'
+  # TWITCH
+  - 
+    Name: Twitch
+    URL: 'https://twitch.tv'
+    Username: chadtheory
+    Icon-Class: fab fa-twitch
+    Color: '#9147fe'
+    Text_Color: '#ffffff'
+  
   # PAYPAL 
   - 
     Name: Paypal Donation
@@ -67,7 +86,7 @@ links:
      
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: #'Yes'
+footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
