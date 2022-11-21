@@ -8,6 +8,9 @@ Image_URL:  https://chadtheory.github.io/assets/images/brand_image.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image:  /assets/images/channels4_banner.jpg
+chad_image:  /assets/images/chad-image.png
+
+Footer: "Y"
 
 # SOCIAL MEDIA 
 links:
