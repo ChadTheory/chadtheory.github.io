@@ -4,10 +4,10 @@ name: "Chad Theory"
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: "The Independent Australian Podcast"
 # YOUR/BRAND IMAGE URL
-Image_URL:  https://chadtheory.github.io/assets/images/brand_image.jpg
+#Image_URL:  https://chadtheory.github.io/assets/images/brand_image.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-# Cover_Image:  /assets/images/channels4_banner.jpg
+Cover_Image:  /assets/images/brand_banner.webp
 chad_image:  /assets/images/chad-image.png
 shortcut_icon:  /favicon.ico
 shortcut_png:  /favicon.png
