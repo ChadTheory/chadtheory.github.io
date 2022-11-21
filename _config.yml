@@ -10,8 +10,6 @@ Image_URL:  https://chadtheory.github.io/assets/images/brand_image.jpg
 Cover_Image:  /assets/images/channels4_banner.jpg
 chad_image:  /assets/images/chad-image.png
 
-Footer: "Y"
-
 # SOCIAL MEDIA 
 links:
   # YOUTUBE
@@ -70,7 +68,7 @@ links:
      
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: #'Yes'
+footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
